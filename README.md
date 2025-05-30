@@ -11,8 +11,8 @@ Eine moderne, responsive Introduction-Website gebaut mit **Vite + TypeScript**.
 
 ### 1. Repository klonen
 ```bash
-git clone <repository-url>
-cd ju-it.at
+git clone https://github.com/j01110101/Ju-Introduction-Website
+cd Ju-Introduction-Website
 ```
 
 ### 2. Dependencies installieren
